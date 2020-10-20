@@ -8,3 +8,4 @@ elproyecto1/Library/EditorInstance.json
  clean = git-lfs clean -- %f
  smudge = git-lfs smudge -- %f
  process = git-lfs filter-process
+elproyecto1/Temp/UnityLockfile
